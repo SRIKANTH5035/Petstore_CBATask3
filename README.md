@@ -21,7 +21,7 @@ This is an API automation framework built using Maven, Cucumber, TestNG, Java, R
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone <https://github.com/SRIKANTH5035/Petstore_CBATask3/tree/feature/srikanth-CBATest>
     cd api-automation-framework
     ```
 
